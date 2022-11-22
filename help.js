@@ -5,7 +5,7 @@
 var monoSpace = '```'
 
 exports.listmenu = (sender,prefix,ad,namenya,premnya,usernya,romnya,tanggal,jam) => {
-return`━━━❲ 𝘼𝙉𝙂𝙂𝘼-𝘽𝙊𝙏 ❳━━━
+return`━━━❲ Yuriku-BOT ❳━━━
 ┏━━━━━━━━━━━━━
 ┣━( 𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢 )
 ┃▤ ID : @${sender.split('@')[0]}
@@ -724,12 +724,12 @@ return`──「 *MENU DONATE* 」──
 Hi *${cekName}* ${ucapanWaktu} 👋🏻
 
 *Payment pulsa*
-Number: 081548907132
-A/N: AnggaJB
+Number: 085891318105
+A/N: Gesha
 
 *Payment Dana*
-Number: 082180238576
-A/N: angga gat
+Number: 085891318105
+A/N: Gesha
 
 ${monoSpace}Terimakasih untuk kamu yang sudah donasi untuk perkembangan bot ini ^_^${monoSpace}
 
@@ -740,17 +740,17 @@ exports.infoOwner = () =>{
 return`──「 *INFO OWNER* 」──
 
  *Data Profil*
- • *Nama:* Angga
- • *Umur:* 16 tahun
- • *Hoby:* Turu/tiktok
- • *Askot:* Palembang
+ • *Nama:* Gesha
+ • *Umur:* 18 tahun
+ • *Hoby:* Turu
+ • *Askot:* Private
  • *Konten:* Creator
 
 _iam developer bot whatsapp._
 
  *Sosial Media*
- • *Whatsapp:* 085832261977
- • *Youtube:* Angga_Chenel
+ • *Whatsapp:* 085891318105
+ • *Youtube:* Kizaru
  • *Github:* ada
  `
 }
